@@ -31,7 +31,7 @@ CAMASUTRA = CHAMA S UTRA = ჭამა დილიდან? ქეიფი? 
 _ Conischiva?  [₾onischiva] მგონი გშივა?  მშივა აპპა არ მშივა? 
 
 
-Book 1. CHEMICAL_PHILOSOPHY_by_JD_P1V2 JOHN DALTONEN PART I VOLUME II
+Book 1. CHEMICÅL_PHILOSOPHY_by_JD_P1V2 JOHN DALTONEN PART I VOLUME II
 
 https://www.gutenberg.org/ebooks/51063
 
